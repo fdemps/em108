@@ -1,0 +1,6 @@
+Jack Murphy 11 116 StPats yes
+Jimmy OBrien 10 111 EducateTogether yes
+David Keogh 12 117 EducateTogether yes
+David Hanahoe 13 125 StPats no
+Tom Byrne 13 130 StPats no
+Thomas Collins 12 127 StPats no

@@ -1,0 +1,9 @@
+Aoife Murphy 12 130 CorpusChristi yes
+Joan OBrien 15 121 Dominican yes
+Barbara Kehoe 10 110 CorpusChristi no
+Celine Keogh 13 121 Dominican yes
+Eva Swan 11 115 StMary no
+Lola McDonnell 14 128 Dominican no
+Leah Monahan 12 118 StMary yes
+May MacDonald 16 127 Dominican no
+May MacDonald 16 127 Dominican yes
